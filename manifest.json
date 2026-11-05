@@ -1,0 +1,13 @@
+{
+  "name": "Little Stuff",
+  "short_name": "Little Stuff",
+  "description": "A sticker journal for the small things you love.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf6ec",
+  "theme_color": "#fbf6ec",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
